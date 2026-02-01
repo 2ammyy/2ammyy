@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning **n8n,MLOps,Business Intelligence**
 
-- 📫 How to reach me : **amyra.hamdeni@gmail.com , www.linkedin.com/in/amira-hamdani**
+- 📫 How to reach me: 
+  - **[Gmail](mailto:amyra.hamdeni@gmail.com)**
+  - **[LinkedIn](https://www.linkedin.com/in/amira-hamdani)**
 
 
 
