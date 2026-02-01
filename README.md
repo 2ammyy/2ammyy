@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amira</h1>
 <h3 align="center">A Data Science and AI Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/2ammyy" alt="2ammyy" /></a> </p>
 
 - 🌱 I’m currently learning **n8n,MLOps,Business Intelligence**
 
