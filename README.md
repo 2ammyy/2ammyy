@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amira</h1>
-<h3 align="center">A Data Science and AI Engineering Student</h3>
+<h3 align="center">Data Science & AI Engineering Student</h3>
 
 
 - 🌱 I’m currently learning **n8n,MLOps,Business Intelligence**
